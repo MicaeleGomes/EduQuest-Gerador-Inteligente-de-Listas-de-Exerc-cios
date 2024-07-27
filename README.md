@@ -1,6 +1,6 @@
 # EduQuest: Gerador Inteligente de Listas de Exercícios
 
-**EduQuest** é uma ferramenta avançada para gerar listas de exercícios a partir de um banco de questões. Ela categoriza as questões em três níveis de dificuldade: básica, intermediária e avançada. O script processa um JSON de questões aleatórias e gera um novo JSON com as listas prontas e organizadas.
+**EduQuest** é uma ferramenta para gerar listas de exercícios a partir de um banco de questões. Ela categoriza as questões em três níveis de dificuldade: básica, intermediária e avançada. O script processa um JSON de questões aleatórias e gera um novo JSON com as listas prontas e organizadas.
 
 ## Funcionalidades
 
