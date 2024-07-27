@@ -30,8 +30,8 @@ Para usar o **EduQuest**, você precisa ter um arquivo JSON contendo as questõe
 
 ## Arquivos
 
-**questoes_organizadas.json:** Arquivo de entrada contendo as questões.
-**listas_questoes_processadas.json:** Arquivo de saída com as questões processadas e categorizadas.
+**questoes.json:** Arquivo de entrada contendo as questões.
+**listas_de_questoes.json:** Arquivo de saída com as questões processadas e categorizadas.
 
 ## Observações
 
